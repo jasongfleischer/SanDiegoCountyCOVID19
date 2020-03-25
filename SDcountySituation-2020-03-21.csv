@@ -1,0 +1,20 @@
+index,San Diego County  Residents,Federal  Quarantine,Non-San  Diego County Residents,Total
+Total Positives,135,11,13,159
+Age Groups,,,,
+0-9 years,0,0,0,0
+10-19 years,2,0,0,2
+20-29 years,27,0,6,33
+30-39 years,37,0,2,39
+40-49 years,29,0,1,30
+50-59 years,18,0,0,18
+60-69 years,8,4,1,13
+70-79 years,11,2,3,16
+80+ years,2,5,0,7
+Age Unknown,1,0,0,1
+Gender,,,,
+Female,45,4,5,54
+Male,89,7,8,104
+Unknown,1,0,0,1
+Hospitalizations,25,6,3,34
+Intensive Care,12,0,1,13
+Deaths,0,0,0,0
