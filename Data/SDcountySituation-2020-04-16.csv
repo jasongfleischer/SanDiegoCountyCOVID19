@@ -1,0 +1,20 @@
+index,Total
+Total Positives,2087
+Age Groups,
+0-9 years,12
+10-19 years,34
+20-29 years,316
+30-39 years,399
+40-49 years,362
+50-59 years,383
+60-69 years,286
+70-79 years,163
+80+ years,129
+Age Unknown,3
+Gender,
+Female,1034
+Male,1047
+Unknown,6
+Hospitalizations,507
+Intensive Care,181
+Deaths,63
