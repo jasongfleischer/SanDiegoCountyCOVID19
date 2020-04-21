@@ -7,4 +7,5 @@ dependencies:
   - scipy
   - seaborn
   - dateparser
-  - tabula
+ - pip:
+    - tabula
